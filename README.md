@@ -25,7 +25,7 @@ The main features are:
 Installation
 ---
 
-Type "make -B".
+    make -B
 
 Normal usage
 ---
